@@ -1,0 +1,6 @@
+{
+  "name": "spv2uint32",
+  "version": "0.0.1",
+  "description": "SPIR-V to uint32 sequence converter",
+  "bin": "index.js"
+}
